@@ -1,0 +1,6 @@
+#!/bin/sh
+echo The directory is: $PWD
+echo Your home directory is:  $HOME
+echo Your last shell was:  $SHELL
+echo "The files are:"
+ls
